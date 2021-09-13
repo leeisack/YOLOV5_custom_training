@@ -18,5 +18,5 @@ I download it through the generated link, and I wrote it in Colab.
 /content/yolov5/runs/train/drone_result/weights/val_batch0_pred.jpg
 ![image](https://user-images.githubusercontent.com/52061393/133011119-474ac3ff-69e0-487a-b5c2-a6a849dfb3e1.png)
 
-
+.pt file
 /content/yolov5/runs/train/drone_result/weights/best.pt
